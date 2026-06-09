@@ -1,0 +1,8 @@
+platform_name: iOS
+automation_name: XCUITest
+bundle_id: com.hannto.liene-photo
+no_reset: true
+new_command_timeout: 120
+# udid: 填写设备 UDID（idevice_id -l 获取）
+# xcode_org_id: 填写 Apple Developer Team ID
+# xcode_signing_id: iPhone Developer
