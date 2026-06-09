@@ -1,7 +1,0 @@
-platform_name: Android
-automation_name: UiAutomator2
-app_package: com.hannto.flutterModule.liene_photo
-app_activity: .MainActivity
-no_reset: true
-new_command_timeout: 120
-# udid: 填写设备序列号（多设备时必填，adb devices 获取）
